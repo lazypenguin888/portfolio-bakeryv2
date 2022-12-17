@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/portfolio-bakeryv2/static/css/main.33f89c35.css",
+    "main.js": "/portfolio-bakeryv2/static/js/main.b3c715c4.js",
+    "static/media/bakeryv2_main.png": "/portfolio-bakeryv2/static/media/bakeryv2_main.80a710b1ce5e22219488.png",
+    "static/media/bakeryv2_filter.png": "/portfolio-bakeryv2/static/media/bakeryv2_filter.8450c25f15717d1ea6cb.png",
+    "static/media/bakeryv2_cart.png": "/portfolio-bakeryv2/static/media/bakeryv2_cart.23fadf3199490a189181.png",
+    "index.html": "/portfolio-bakeryv2/index.html",
+    "main.33f89c35.css.map": "/portfolio-bakeryv2/static/css/main.33f89c35.css.map",
+    "main.b3c715c4.js.map": "/portfolio-bakeryv2/static/js/main.b3c715c4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.33f89c35.css",
+    "static/js/main.b3c715c4.js"
+  ]
+}
